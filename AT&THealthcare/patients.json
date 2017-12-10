@@ -1,0 +1,369 @@
+
+{ "patients": [ {
+	"id": 1, 
+	"firstName": "Jonathan",
+	"preferredName":  "John",
+	"last name": "Smith",
+	"gender": "male",
+	"DOB": "06-27-1971",
+	"ht": "5'10",
+	"wt": "145",
+	"phone number": "018-923-4504",
+	"martial status": "single",
+	"address": "100 Perimeter Center Pkwy",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "Jonathansmith@gmail.com"
+}, 
+
+{
+"id": 2, 
+	"firstName": "Anthony",
+	"preferredName":  "Tony",
+	"last name": "Lee",
+	"gender": "male",
+	"DOB": "05-23-1985",
+	"ht": "5'7",
+	"wt": "140",
+	"phone number": "218-423-4204",
+	"martial status": "single",
+	"address": "105 Perimeter Center Pkwy",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+
+	"emailAddress": "anthonylee@gmail.com"
+}, 
+
+{
+"id": 3, 
+	"firstName": "Samantha",
+	"preferredName":  "Sammy",
+	"last name": "Lange",
+	"gender": "female",
+	"DOB": "02-14-1980",
+	"ht": "5'8",
+	"wt": "135",
+	"phone number": "770-990-0304",
+	"martial status": "single",
+	"address": "1002 Abernathy Street",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30316",
+	"emailAddress": "SammyLange@gmail.com"
+}, 
+
+
+{
+"id": 4, 
+	"firstName": "Josh",
+	"preferredName":  "",
+	"last name": "Harrington",
+	"gender": "male",
+	"DOB": "02-03-1988",
+	"ht": "6'2",
+	"wt": "165",
+	"phone number": "770-234-5556",
+	"martial status": "married",
+	"address": "102 Will Rogers Place",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30316",
+	"emailAddress": "HarringtonJ@gmail.com"
+}, 
+
+
+{		
+	"id": 5, 
+	"firstName": "Psy",
+	"preferredName":  "Psy",
+	"last name": "Kim",
+	"gender": "male",
+	"DOB": "08-27-1970",
+	"ht": "5'2",
+	"wt": "139",
+	"phone number": "012-588-6793",
+	"martial status": "single",
+	"address": "2009 Fallbrook Drive",
+	"city": "Duluth",
+	"state": "GA",
+	"zipcode": "30097",
+	"emailAddress": "psygangnamstyle@gmail.com"
+}
+
+
+{
+"id": 6, 
+	"firstName": "Angelina",
+	"preferredName":  "Angel",
+	"last name": "Bank",
+	"gender": "female",
+	"DOB": "04-27-1989",
+	"ht": "5'8",
+	"wt": "130",
+	"phone number": "404-018-8234",
+	"martial status": "married",
+	"address": "300 Clarimont Circle",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "angelabank@gmail.com"
+}
+
+
+{
+"id": 7, 
+	"firstName": "Ferrah",
+	"preferredName":  "",
+	"last name": "Li",
+	"gender": "female",
+	"DOB": "02-07-1940",
+	"ht": "5'5",
+	"wt": "131",
+	"phone number": "800-189-4507",
+	"martial status": "single",
+	"address": "1101 Gresham Road",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30316",
+	"emailAddress": "farrahli@gmail.com"
+}
+
+
+{
+"id": 8, 
+	"firstName": "Arlen",
+	"preferredName":  "",
+	"last name": "Jung",
+	"gender": "male",
+	"DOB": "06-27-1955",
+	"ht": "5'6",
+	"wt": "140",
+	"phone number": "218-084-4594",
+	"martial status": "divorced",
+	"address": "50 Perimeter Center Pkwy",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "arlenjung@gmail.com"
+}
+
+
+{
+"id": 9, 
+	"firstName": "Abril",
+	"preferredName":  "",
+	"last name": "Khan",
+	"gender": "female",
+	"DOB": "10-04-1982",
+	"ht": "5'9",
+	"wt": "134",
+	"phone number": "770-772-9291",
+	"martial status": "single",
+	"address": "1101 Addison Way",
+	"city": "Suwanee",
+	"state": "GA",
+	"zipcode": "30096",
+	"emailAddress": "abrilapril@gmail.com"
+}
+
+{
+"id": 10, 
+	"firstName": "Jonathan",
+	"preferredName":  "John",
+	"last name": "Smith",
+	"gender": "male",
+	"DOB": "06-27-1971",
+	"ht": "5'10",
+	"wt": "145",
+	"phone number": "219-233-3450",
+	"martial status": "married",
+	"address": "7600 Perimeter Lane",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "nicolemuentes@aol.com"
+},
+
+{
+"id": 11, 
+	"firstName": "Thomas",
+	"preferredName":  "Tom",
+	"last name": "Lion",
+	"gender": "male",
+	"DOB": "06-27-1978",
+	"ht": "5'7",
+	"wt": "146",
+	"phone number": "770-773-2504",
+	"martial status": "single",
+	"address": "100 Windward Pkwy",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30022",
+	"emailAddress": "thomasthelion@gmail.com"
+},
+
+{
+"id": 12, 
+	"firstName": "Billy",
+	"preferredName":  "",
+	"last name": "Chore",
+	"gender": "male",
+	"DOB": "06-27-1974",
+	"ht": "5'9",
+	"wt": "150",
+	"phone number": "77-018-4534",
+	"martial status": "married",
+	"address": "327 Ponce De Leon",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30316",
+	"emailAddress": "BillyChore@gmail.com"
+},
+
+
+{
+"id": 13, 
+	"firstName": "Keisha",
+	"preferredName":  "",
+	"last name": "Cole",
+	"gender": "female",
+	"DOB": "01-01-1965",
+	"ht": "5'1",
+	"wt": "138",
+	"phone number": "404-923-0002",
+	"martial status": "married",
+	"address": "99 McFarland Rd",
+	"city": "Alpharetta",
+	"state": "GA",
+	"zipcode": "30004",
+	"emailAddress": "keishacole@gmail.com"
+}, 
+
+{
+"id": 14, 
+	"firstName": "JB",
+	"preferredName":  "JB",
+	"last name": "Smithy",
+	"gender": "male",
+	"DOB": "02-23-1955",
+	"ht": "5'6",
+	"wt": "138",
+	"phone number": "998-929-4500",
+	"martial status": "single",
+	"address": "100 Perimeter Center Pkwy",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "smithyjb@gmail.com"
+}, 
+
+{
+"id": 15, 
+	"firstName": "Jonathan",
+	"preferredName":  "Johnny",
+	"last name": "Sky",
+	"gender": "male",
+	"DOB": "08-27-1985",
+	"ht": "5'10",
+	"wt": "153",
+	"phone number": "923-678-4504",
+	"martial status": "single",
+	"address": "300 Club Center Pkwy",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "johnnysky@gmail.com"
+}, 
+
+{
+"id": 16, 
+	"firstName": "Kenneth",
+	"preferredName":  "",
+	"last name": "Cole",
+	"gender": "male",
+	"DOB": "06-27-1990",
+	"ht": "5'9",
+	"wt": "150",
+	"phone number": "770-018-9234",
+	"martial status": "single",
+	"address": "98 Ashford Dunwoody Rd",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "kcole@gmail.com"
+}, 
+
+{
+"id": 17, 
+	"firstName": "Amish",
+	"preferredName":  "",
+	"last name": "Patel",
+	"gender": "male",
+	"DOB": "06-27-1970",
+	"ht": "5'8",
+	"wt": "155",
+	"phone number": "404-889-4504",
+	"martial status": "single",
+	"address": "106 Perimeter Center Pkwy",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "AmishPatel@gmail.com"
+}, 
+
+{
+"id": 18, 
+	"firstName": "Amiee",
+	"preferredName":  "Emily",
+	"last name": "Tae",
+	"gender": "female",
+	"DOB": "12-25-1986",
+	"ht": "6'0",
+	"wt": "143",
+	"phone number": "018-923-4504",
+	"martial status": "single",
+	"address": "30 Ashford Center Lane",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "AmieeTae@gmail.com"
+}, 
+
+{
+"id": 19, 
+	"firstName": "Ashlee",
+	"preferredName":  "John",
+	"last name": "Mann",
+	"gender": "female",
+	"DOB": "11-09-1971",
+	"ht": "5'10",
+	"wt": "134",
+	"phone number": "770-300-7804",
+	"martial status": "single",
+	"address": "200 Perimeter Pkwy",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "ashleemann@gmail.com"
+}, 
+{
+"id": 20,  
+	"firstName": "Lydia",
+	"preferredName":  "",
+	"last name": "Wong",
+	"gender": "female",
+	"DOB": "05-12-1987",
+	"ht": "5'3",
+	"wt": "125",
+	"phone number": "218-923-3303",
+	"martial status": "married",
+	"address": "190 Perimeter Center Way",
+	"city": "Atlanta",
+	"state": "GA",
+	"zipcode": "30346",
+	"emailAddress": "lydiawong@gmail.com"
+}
+
+]}
